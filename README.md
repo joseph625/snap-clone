@@ -1,1 +1,1 @@
-Snap chat clone with (React - Redux & (Redux Toolkit) - Firebase)
+Snap chat clone with (React - Redux Toolkit - Firebase)
